@@ -1,0 +1,157 @@
+h1 {
+  font-family: monospace;
+  position: absolute;
+  left: 100px;
+}
+
+.combo{
+  position: absolute;
+  left: 30vw;
+  top: 20vh;
+}
+
+.work{
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  left: 100px;
+  top: 55px;
+}
+
+.contact{
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  left: 100px;
+  top:80px;
+}
+
+.mail{
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  left: 15vw;
+  top:35vh;
+}
+
+.instagram{
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  left: 15vw;
+  top:45vh;
+}
+
+.nummer{
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  left: 25vw;
+  top:40vh;
+}
+
+.suzanne{
+  position: absolute;
+  left: 50vw;
+  top: 10vh;
+}
+
+.postcards{
+  font-family: monospace;
+  font-size: 40px;
+  position: absolute;
+  left: 70vw;
+  top: 24vh;
+}
+
+.boerderij{
+  position: absolute;
+  left: 15vw;
+  top: 60vh;
+}
+
+.Charleroi{
+  font-family: monospace;
+  position: absolute;
+  left: 13vw;
+  top: 21vh;
+}
+
+.ch{
+  font-size: 30px;
+  font-family: monospace;
+  position: absolute;
+  left: 13vw;
+  top: 17vh;
+}
+
+.c{
+  font-size: 30px;
+  font-family: monospace;
+  position: absolute;
+  left: 60vw;
+  top: 11vh;
+}
+
+.cats{
+  font-family: monospace;
+  position: absolute;
+  left: 60vw;
+  top: 15vh;
+}
+.photos{
+  font-family: monospace;
+  font-size: 40px;
+  position: absolute;
+  left: 27vw;
+  top:35vh;
+}
+.k1{
+  position: absolute;
+  left: 87vw;
+  top:42vh;
+}
+.k2{
+  position: absolute;
+  left: 87vw;
+  top:20vh;
+}
+.k3{
+  position: absolute;
+  left: 60vw;
+  top:20vh;
+}
+.c1{
+  position: absolute;
+  left: 13vw;
+  top: 30vh;
+}
+
+.c3{
+  position: absolute;
+  left: 13vw;
+  top: 60vh;
+}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
