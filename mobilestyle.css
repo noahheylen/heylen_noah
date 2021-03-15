@@ -26,24 +26,112 @@ h1 {
   position: absolute;
   left: 100px;
 }
-.work{
+.work2{
   font-family: monospace;
   font-size: 40px;
   position: absolute;
   left: 60vw;
-  top: 13vh;
+  top: 10vh;
 }
 
-.contact{
+.contact2{
   font-family: monospace;
   font-size: 40px;
   position: absolute;
   left: 35vw;
-  top:20vh;
+  top:10vh;
 }
 
 .deur{
   position: absolute;
   left: 30vw;
   top: 30vh;
+}
+
+.postcards{
+  font-family: monospace;
+  font-size: 40px;
+  position: absolute;
+  left: 60vw;
+  top: 10vh;
+}
+
+.photos{
+  font-family: monospace;
+  font-size: 40px;
+  position: absolute;
+  left: 35vw;
+  top:10vh;
+}
+
+.Charleroi{
+  font-family: monospace;
+  position: absolute;
+  left: 5vw;
+  top: 21vh;
+}
+
+.ch{
+  font-size: 25px;
+  font-family: monospace;
+  position: absolute;
+  left: 5vw;
+  top: 17vh;
+}
+
+.c{
+  font-size: 25px;
+  font-family: monospace;
+  position: absolute;
+  left: 60vw;
+  top: 11vh;
+}
+
+.cats{
+  font-family: monospace;
+  position: absolute;
+  left: 60vw;
+  top: 15vh;
+}
+
+
+.k3{
+  position: absolute;
+  left: 60vw;
+  top:27vh;
+}
+.c1{
+  position: absolute;
+  left: 5vw;
+  top: 37vh;
+}
+
+.mail{
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  left: 15vw;
+  top:15vh;
+}
+
+.instagram{
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  left: 15vw;
+  top:25vh;
+}
+
+.nummer{
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  left: 60vw;
+  top:20vh;
+}
+
+.suzanne{
+  position: absolute;
+  left: 45vw;
+  top: 32vh;
 }
