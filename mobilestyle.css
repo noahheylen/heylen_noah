@@ -31,7 +31,7 @@ h1 {
   font-size: 40px;
   position: absolute;
   left: 60vw;
-  top: 10vh;
+  top: 15vh;
 }
 
 .contact2{
@@ -39,7 +39,7 @@ h1 {
   font-size: 40px;
   position: absolute;
   left: 35vw;
-  top:10vh;
+  top:15vh;
 }
 
 .deur{
@@ -98,40 +98,46 @@ h1 {
 .k3{
   position: absolute;
   left: 60vw;
-  top:27vh;
+  top:22vh;
 }
 .c1{
   position: absolute;
   left: 5vw;
-  top: 37vh;
+  top: 32vh;
 }
 
 .mail{
   font-family: monospace;
-  font-size: 20px;
+  font-size: 40px;
   position: absolute;
   left: 15vw;
-  top:15vh;
+  top:10vh;
 }
 
 .instagram{
   font-family: monospace;
-  font-size: 20px;
+  font-size: 40px;
   position: absolute;
-  left: 15vw;
-  top:25vh;
+  left: 20vw;
+  top:20vh;
 }
 
 .nummer{
   font-family: monospace;
-  font-size: 20px;
+  font-size: 40px;
   position: absolute;
-  left: 60vw;
-  top:20vh;
+  left: 65vw;
+  top:15vh;
 }
 
 .suzanne{
   position: absolute;
-  left: 45vw;
-  top: 32vh;
+  left: 40vw;
+  top: 27vh;
+}
+
+.doka{
+  position: absolute;
+  left: 5vw;
+  top: 20vh;
 }
