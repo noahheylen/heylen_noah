@@ -28,7 +28,7 @@ h1 {
 }
 .work{
   font-family: monospace;
-  font-size: 20px;
+  font-size: 40px;
   position: absolute;
   left: 60vw;
   top: 13vh;
@@ -36,7 +36,7 @@ h1 {
 
 .contact{
   font-family: monospace;
-  font-size: 20px;
+  font-size: 40px;
   position: absolute;
   left: 35vw;
   top:20vh;
