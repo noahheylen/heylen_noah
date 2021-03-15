@@ -89,14 +89,14 @@ h1 {
   font-size: 30px;
   font-family: monospace;
   position: absolute;
-  left: 60vw;
+  left: 67vw;
   top: 11vh;
 }
 
 .cats{
   font-family: monospace;
   position: absolute;
-  left: 60vw;
+  left: 67vw;
   top: 15vh;
 }
 .photos{
@@ -108,23 +108,23 @@ h1 {
 }
 .k1{
   position: absolute;
-  left: 87vw;
+  right: 50px;
   top:42vh;
 }
 .k2{
   position: absolute;
-  left: 87vw;
-  top:20vh;
+  right:50px;
+  top:23vh;
 }
 .k3{
   position: absolute;
-  left: 60vw;
-  top:20vh;
+  right: 200px;
+  top:23vh;
 }
 .c1{
   position: absolute;
   left: 13vw;
-  top: 30vh;
+  top: 33vh;
 }
 
 .c3{
